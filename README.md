@@ -3,6 +3,17 @@
 # The model will be trained on the real-time data extracting through an API called "AlphaVantage" and "Yahoo Finance API" which consists of real-time Stock prices, news and historical data.
 
 
+
+*More features will be added and deployed*
+
+*This is my current output results of how my AI Assistant is working*
+
+*Refer https://github.com/karthikkumarcholleti/AI-Assistant-ChatBot/blob/main/the_big_code%20(1).py to view the output*
+
+*Refer https://github.com/karthikkumarcholleti/AI-Assistant-ChatBot/blob/main/FINE_TUNE%20(1).ipynb to view the Fine tuned model*
+
+*Run this model to view more resuts.*
+
 **TRY TO DOWNLOAD THE FOLLOWING FINE TUNED MODELS BEFORE TESTING IT**
 
 https://drive.google.com/drive/folders/10V9Lh2NQoiOoGB4s_qIXJnkkxNq5dugE?usp=sharing
