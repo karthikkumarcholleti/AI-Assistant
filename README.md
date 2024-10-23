@@ -2,6 +2,25 @@
 # Our Aim is to building a Chatbot which chats with the users providing with the real-time data related to Stock Prices.
 # The model will be trained on the real-time data extracting through an API called "AlphaVantage" and "Yahoo Finance API" which consists of real-time Stock prices, news and historical data.
 
+
+**TRY TO DOWNLOAD THE FOLLOWING FINE TUNED MODELS BEFORE TESTING IT**
+
+https://drive.google.com/drive/folders/10V9Lh2NQoiOoGB4s_qIXJnkkxNq5dugE?usp=sharing
+https://drive.google.com/drive/folders/10lFL2WT3A6kS3Ii6fT00BMZH-rZNb5Vg?usp=sharing
+https://drive.google.com/drive/folders/1hykYr6Z9nqAuY9_Zqk22fj3LYwATGZ9Q?usp=sharing
+
+
+**Some of the output picctures are attached below, showing how my model is working betching the data through yfinance API and Alpha Vantage API**
+*Run this model to view more resuts.*
+![image](https://github.com/user-attachments/assets/e2ddc91f-5738-409b-90e7-03e3c4c676ac)
+![image](https://github.com/user-attachments/assets/86d219ef-74f3-488b-ab93-9a80872a801b)
+![image](https://github.com/user-attachments/assets/a8d5e540-1e8f-4cd6-99b9-0305a0d07c1f)
+![image](https://github.com/user-attachments/assets/b4fc3010-1827-42a0-b3fd-a047af47bf5c)
+![image](https://github.com/user-attachments/assets/ef62c6ec-caf8-4b9e-ad33-f22a868c9ca1)
+![image](https://github.com/user-attachments/assets/a41a09cb-6695-44a5-82cf-450028c12543)
+
+
+
 **Stock Market AI Assistant**
 This project is an AI-powered assistant designed to handle a wide variety of stock-related queries. It can provide real-time stock price information, perform trend analysis, compare stock prices, and provide stock-related news sentiment. The assistant is built using BERT for intent detection, combined with FinGPT for real-time data fetching, and is integrated with APIs like yfinance to retrieve stock data.
 
