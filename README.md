@@ -10,14 +10,16 @@
 
 *Refer https://github.com/karthikkumarcholleti/AI-Assistant-ChatBot/blob/main/the_big_code%20(1).py to view the output*
 
-*Refer https://github.com/karthikkumarcholleti/AI-Assistant-ChatBot/blob/main/FINE_TUNE%20(1).ipynb to view the Fine tuned model*
+*Refer https://github.com/karthikkumarcholleti/AI-Assistant/blob/main/fine_tuned_model.py to view the Fine tuned model*
 
 *Run this model to view more resuts.*
 
 **TRY TO DOWNLOAD THE FOLLOWING FINE TUNED MODELS BEFORE TESTING IT**
 
 https://drive.google.com/drive/folders/10V9Lh2NQoiOoGB4s_qIXJnkkxNq5dugE?usp=sharing
+
 https://drive.google.com/drive/folders/10lFL2WT3A6kS3Ii6fT00BMZH-rZNb5Vg?usp=sharing
+
 https://drive.google.com/drive/folders/1hykYr6Z9nqAuY9_Zqk22fj3LYwATGZ9Q?usp=sharing
 
 
